@@ -33,6 +33,17 @@ Each commit = a rep that made me better
 
 ---
 
+### 📱 Folder Suffix Key
+
+// --Mobile → challenge logs completed away from desktop
+//           typically puzzle-style games (Flexbox Froggy, etc)
+//           done on breaks, phones, or casual sessions
+
+// No suffix → logic-based desktop projects or applied UI challenges
+//           built with full tooling, more in-depth or structured
+
+---
+
 ## 📝 License
 
 MIT — do what you want with it.
